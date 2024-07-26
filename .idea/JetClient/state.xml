@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot;: &quot;chiku&quot;,&#10;  &quot;account_number&quot;: &quot;515151526&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f6092cfa-4baf-4824-a018-9b6886d6bb04" />
+              <option name="method" value="POST" />
+              <option name="name" value="register_beneficiary" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/register_beneficiary" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="16967195-974c-437c-9a15-324b5c71b3fd" />
+              <option name="method" value="GET" />
+              <option name="name" value="get_beneficiaries" />
+              <option name="sortWeight" value="2000000" />
+              <option name="url" value="http://localhost:8080/get_beneficiaries" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
+    <option name="id" value="c1983b85-eeae-4136-90b1-2f3e8b142d82" />
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="History">
+    <option name="requestHistoryStates">
+      <list>
+        <requestHistoryState>
+          <option name="dateTime" value="1721952543505" />
+          <option name="id" value="0cfd2aa7-020a-4e80-b987-3da21266afb4" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f6092cfa-4baf-4824-a018-9b6886d6bb04" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="NDA0IHBhZ2Ugbm90IGZvdW5k" />
+              <option name="bodyString" value="404 page not found" />
+              <option name="code" value="404" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="text/plain" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Fri, 26 Jul 2024 00:09:03 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="18" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="0cfd2aa7-020a-4e80-b987-3da21266afb4" />
+              <option name="message" value="Not Found" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="404 page not found" />
+              <option name="size" value="18" />
+              <option name="time" value="11" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1721952567283" />
+          <option name="id" value="77125109-efb3-4d6e-bfb3-c1a38cbf0768" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f6092cfa-4baf-4824-a018-9b6886d6bb04" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/register_beneficiary" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ewogICAgImVycm9yIjogIkVPRiIKfQ==" />
+              <option name="bodyString" value="{&#10;  &quot;error&quot;: &quot;EOF&quot;&#10;}" />
+              <option name="code" value="400" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Fri, 26 Jul 2024 00:09:27 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="22" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="77125109-efb3-4d6e-bfb3-c1a38cbf0768" />
+              <option name="message" value="Bad Request" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&#10;    &quot;error&quot;: &quot;EOF&quot;&#10;}" />
+              <option name="size" value="22" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1721952588804" />
+          <option name="id" value="4312f6ff-fcee-4fc7-b3f9-97d71cd95573" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f6092cfa-4baf-4824-a018-9b6886d6bb04" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/register_beneficiary" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ewogICAgImVycm9yIjogIktleTogJ0JlbmVmaWNpYXJ5Lk5hbWUnIEVycm9yOkZpZWxkIHZhbGlkYXRpb24gZm9yICdOYW1lJyBmYWlsZWQgb24gdGhlICdyZXF1aXJlZCcgdGFnXG5LZXk6ICdCZW5lZmljaWFyeS5BY2NvdW50TnVtYmVyJyBFcnJvcjpGaWVsZCB2YWxpZGF0aW9uIGZvciAnQWNjb3VudE51bWJlcicgZmFpbGVkIG9uIHRoZSAncmVxdWlyZWQnIHRhZyIKfQ==" />
+              <option name="bodyString" value="{&#10;  &quot;error&quot;: &quot;Key: 'Beneficiary.Name' Error:Field validation for 'Name' failed on the 'required' tag\nKey: 'Beneficiary.AccountNumber' Error:Field validation for 'AccountNumber' failed on the 'required' tag&quot;&#10;}" />
+              <option name="code" value="400" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Fri, 26 Jul 2024 00:09:48 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="211" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="4312f6ff-fcee-4fc7-b3f9-97d71cd95573" />
+              <option name="message" value="Bad Request" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&#10;    &quot;error&quot;: &quot;Key: 'Beneficiary.Name' Error:Field validation for 'Name' failed on the 'required' tag\nKey: 'Beneficiary.AccountNumber' Error:Field validation for 'AccountNumber' failed on the 'required' tag&quot;&#10;}" />
+              <option name="size" value="211" />
+              <option name="time" value="8" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1721952734056" />
+          <option name="id" value="49303f7a-9aa4-4aea-a1d5-69fec710f18b" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot;: &quot;chiku&quot;,&#10;  &quot;account&quot;: &quot;515151526&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f6092cfa-4baf-4824-a018-9b6886d6bb04" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/register_beneficiary" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ewogICAgImVycm9yIjogIktleTogJ0JlbmVmaWNpYXJ5LkFjY291bnROdW1iZXInIEVycm9yOkZpZWxkIHZhbGlkYXRpb24gZm9yICdBY2NvdW50TnVtYmVyJyBmYWlsZWQgb24gdGhlICdyZXF1aXJlZCcgdGFnIgp9" />
+              <option name="bodyString" value="{&#10;  &quot;error&quot;: &quot;Key: 'Beneficiary.AccountNumber' Error:Field validation for 'AccountNumber' failed on the 'required' tag&quot;&#10;}" />
+              <option name="code" value="400" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Fri, 26 Jul 2024 00:12:14 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="123" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="49303f7a-9aa4-4aea-a1d5-69fec710f18b" />
+              <option name="message" value="Bad Request" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&#10;    &quot;error&quot;: &quot;Key: 'Beneficiary.AccountNumber' Error:Field validation for 'AccountNumber' failed on the 'required' tag&quot;&#10;}" />
+              <option name="size" value="123" />
+              <option name="time" value="13" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1721952752364" />
+          <option name="id" value="bba6d13c-6057-4dee-9bbb-dea9c0fd99f0" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot;: &quot;chiku&quot;,&#10;  &quot;account_number&quot;: &quot;515151526&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f6092cfa-4baf-4824-a018-9b6886d6bb04" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/register_beneficiary" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ewogICAgImlkIjogMSwKICAgICJuYW1lIjogImNoaWt1IiwKICAgICJhY2NvdW50X251bWJlciI6ICI1MTUxNTE1MjYiLAogICAgImNyZWF0ZWRfYXQiOiAiMjAyNC0wNy0yNlQwMjoxMjozMi4zMTkrMDI6MDAiLAogICAgInVwZGF0ZWRfYXQiOiAiMjAyNC0wNy0yNlQwMjoxMjozMi4zMTkrMDI6MDAiCn0=" />
+              <option name="bodyString" value="{&#10;  &quot;id&quot;: 1,&#10;  &quot;name&quot;: &quot;chiku&quot;,&#10;  &quot;account_number&quot;: &quot;515151526&quot;,&#10;  &quot;created_at&quot;: &quot;2024-07-26T02:12:32.319+02:00&quot;,&#10;  &quot;updated_at&quot;: &quot;2024-07-26T02:12:32.319+02:00&quot;&#10;}" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Fri, 26 Jul 2024 00:12:32 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="173" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="bba6d13c-6057-4dee-9bbb-dea9c0fd99f0" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&#10;    &quot;id&quot;: 1,&#10;    &quot;name&quot;: &quot;chiku&quot;,&#10;    &quot;account_number&quot;: &quot;515151526&quot;,&#10;    &quot;created_at&quot;: &quot;2024-07-26T02:12:32.319+02:00&quot;,&#10;    &quot;updated_at&quot;: &quot;2024-07-26T02:12:32.319+02:00&quot;&#10;}" />
+              <option name="size" value="173" />
+              <option name="time" value="47" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1721953193246" />
+          <option name="id" value="3c41c27e-0191-4c23-9f5a-520b43cf4af8" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="16967195-974c-437c-9a15-324b5c71b3fd" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft 1" />
+              <option name="sortWeight" value="2000000" />
+              <option name="url" value="http://localhost:8080/get_beneficiaries" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="WwogICAgewogICAgICAgICJpZCI6IDEsCiAgICAgICAgIm5hbWUiOiAiY2hpa3UiLAogICAgICAgICJhY2NvdW50X251bWJlciI6ICI1MTUxNTE1MjYiLAogICAgICAgICJjcmVhdGVkX2F0IjogIjIwMjQtMDctMjZUMDI6MTI6MzIuMzE5KzAyOjAwIiwKICAgICAgICAidXBkYXRlZF9hdCI6ICIyMDI0LTA3LTI2VDAyOjEyOjMyLjMxOSswMjowMCIKICAgIH0KXQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: 1,&#10;    &quot;name&quot;: &quot;chiku&quot;,&#10;    &quot;account_number&quot;: &quot;515151526&quot;,&#10;    &quot;created_at&quot;: &quot;2024-07-26T02:12:32.319+02:00&quot;,&#10;    &quot;updated_at&quot;: &quot;2024-07-26T02:12:32.319+02:00&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Fri, 26 Jul 2024 00:19:53 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="205" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="3c41c27e-0191-4c23-9f5a-520b43cf4af8" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[&#10;    {&#10;        &quot;id&quot;: 1,&#10;        &quot;name&quot;: &quot;chiku&quot;,&#10;        &quot;account_number&quot;: &quot;515151526&quot;,&#10;        &quot;created_at&quot;: &quot;2024-07-26T02:12:32.319+02:00&quot;,&#10;        &quot;updated_at&quot;: &quot;2024-07-26T02:12:32.319+02:00&quot;&#10;    }&#10;]" />
+              <option name="size" value="205" />
+              <option name="time" value="18" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+      </list>
+    </option>
+  </component>
+</project>

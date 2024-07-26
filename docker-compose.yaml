@@ -1,0 +1,12 @@
+services:
+  mysql:
+    image: mysql
+    ports:
+      - 3306:3306
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_USER: chiku
+      MYSQL_PASSWORD: mygorestapp
+      MYSQL_DATABASE: sct_system_db
+    volumes:
+      - /c/Users/chiku/dev/data/volumes/sct-system:/var/lib/mysql
