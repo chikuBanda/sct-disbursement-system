@@ -348,6 +348,296 @@
           </option>
           <option name="workspaceId" value="drafts" />
         </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1721953794540" />
+          <option name="id" value="b74cb058-5f6c-46d6-9e4e-36f2eaa8a2c8" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;beneficiary_id&quot;: 1,&#10;  &quot;status&quot;: &quot;COMPLETED&quot;,&#10;  &quot;amount&quot;: 20000&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f8a6af81-1fbc-4351-bbd1-dd309b21cfb8" />
+              <option name="method" value="POST" />
+              <option name="name" value="initiate_transfer" />
+              <option name="sortWeight" value="3000000" />
+              <option name="url" value="http://localhost:8080/initiate_transfer" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ewogICAgImVycm9yIjogInVuc3VwcG9ydGVkIHJlbGF0aW9uczogVHJhbnNmZXJzIgp9ewogICAgImlkIjogMCwKICAgICJiZW5lZmljaWFyeV9pZCI6IDEsCiAgICAiYW1vdW50IjogMjAwMDAsCiAgICAic3RhdHVzIjogIkNPTVBMRVRFRCIsCiAgICAiY3JlYXRlZF9hdCI6ICIwMDAxLTAxLTAxVDAwOjAwOjAwWiIsCiAgICAidXBkYXRlZF9hdCI6ICIwMDAxLTAxLTAxVDAwOjAwOjAwWiIKfQ==" />
+              <option name="bodyString" value="{&#10;  &quot;error&quot;: &quot;unsupported relations: Transfers&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Fri, 26 Jul 2024 00:29:54 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="223" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="b74cb058-5f6c-46d6-9e4e-36f2eaa8a2c8" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&#10;    &quot;error&quot;: &quot;unsupported relations: Transfers&quot;&#10;}{&#10;    &quot;id&quot;: 0,&#10;    &quot;beneficiary_id&quot;: 1,&#10;    &quot;amount&quot;: 20000,&#10;    &quot;status&quot;: &quot;COMPLETED&quot;,&#10;    &quot;created_at&quot;: &quot;0001-01-01T00:00:00Z&quot;,&#10;    &quot;updated_at&quot;: &quot;0001-01-01T00:00:00Z&quot;&#10;}" />
+              <option name="size" value="223" />
+              <option name="time" value="16" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1721955747754" />
+          <option name="id" value="13209bbf-33a6-4232-8d4c-6ba7df14c1c5" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;beneficiary_id&quot;: 1,&#10;  &quot;status&quot;: &quot;COMPLETED&quot;,&#10;  &quot;amount&quot;: 20000&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f8a6af81-1fbc-4351-bbd1-dd309b21cfb8" />
+              <option name="method" value="POST" />
+              <option name="name" value="initiate_transfer" />
+              <option name="sortWeight" value="3000000" />
+              <option name="url" value="http://localhost:8080/initiate_transfer" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ewogICAgImVycm9yIjogInVuc3VwcG9ydGVkIHJlbGF0aW9uczogVHJhbnNmZXJzIgp9" />
+              <option name="bodyString" value="{&#10;  &quot;error&quot;: &quot;unsupported relations: Transfers&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Fri, 26 Jul 2024 01:02:27 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="51" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="13209bbf-33a6-4232-8d4c-6ba7df14c1c5" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&#10;    &quot;error&quot;: &quot;unsupported relations: Transfers&quot;&#10;}" />
+              <option name="size" value="51" />
+              <option name="time" value="22" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1721955773944" />
+          <option name="id" value="576e54d0-35bf-42dd-a41a-c77486ada91c" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;beneficiary_id&quot;: 1,&#10;  &quot;status&quot;: &quot;COMPLETED&quot;,&#10;  &quot;amount&quot;: 20000&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f8a6af81-1fbc-4351-bbd1-dd309b21cfb8" />
+              <option name="method" value="POST" />
+              <option name="name" value="initiate_transfer" />
+              <option name="sortWeight" value="3000000" />
+              <option name="url" value="http://localhost:8080/initiate_transfer" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ewogICAgImVycm9yIjogInVuc3VwcG9ydGVkIHJlbGF0aW9uczogVHJhbnNmZXJzIgp9" />
+              <option name="bodyString" value="{&#10;  &quot;error&quot;: &quot;unsupported relations: Transfers&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Fri, 26 Jul 2024 01:02:53 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="51" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="576e54d0-35bf-42dd-a41a-c77486ada91c" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&#10;    &quot;error&quot;: &quot;unsupported relations: Transfers&quot;&#10;}" />
+              <option name="size" value="51" />
+              <option name="time" value="21" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1721956275834" />
+          <option name="id" value="e25ee06e-ac10-4345-bdd9-1b5c9c281762" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;beneficiary_id&quot;: 1,&#10;  &quot;status&quot;: &quot;COMPLETED&quot;,&#10;  &quot;amount&quot;: 20000&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f8a6af81-1fbc-4351-bbd1-dd309b21cfb8" />
+              <option name="method" value="POST" />
+              <option name="name" value="initiate_transfer" />
+              <option name="sortWeight" value="3000000" />
+              <option name="url" value="http://localhost:8080/initiate_transfer" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ewogICAgImVycm9yIjogInVuc3VwcG9ydGVkIHJlbGF0aW9uczogVHJhbnNhY3Rpb25IaXN0b3JpZXMiCn0=" />
+              <option name="bodyString" value="{&#10;  &quot;error&quot;: &quot;unsupported relations: TransactionHistories&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Fri, 26 Jul 2024 01:11:15 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="62" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="e25ee06e-ac10-4345-bdd9-1b5c9c281762" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&#10;    &quot;error&quot;: &quot;unsupported relations: TransactionHistories&quot;&#10;}" />
+              <option name="size" value="62" />
+              <option name="time" value="53" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1721956342904" />
+          <option name="id" value="527306d0-9f42-43c5-a360-1d47bc913ff0" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;beneficiary_id&quot;: 1,&#10;  &quot;status&quot;: &quot;COMPLETED&quot;,&#10;  &quot;amount&quot;: 20000&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f8a6af81-1fbc-4351-bbd1-dd309b21cfb8" />
+              <option name="method" value="POST" />
+              <option name="name" value="initiate_transfer" />
+              <option name="sortWeight" value="3000000" />
+              <option name="url" value="http://localhost:8080/initiate_transfer" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ewogICAgImVycm9yIjogInVuc3VwcG9ydGVkIHJlbGF0aW9uczogVHJhbnNhY3Rpb25IaXN0b3J5Igp9" />
+              <option name="bodyString" value="{&#10;  &quot;error&quot;: &quot;unsupported relations: TransactionHistory&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Fri, 26 Jul 2024 01:12:22 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="60" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="527306d0-9f42-43c5-a360-1d47bc913ff0" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&#10;    &quot;error&quot;: &quot;unsupported relations: TransactionHistory&quot;&#10;}" />
+              <option name="size" value="60" />
+              <option name="time" value="40" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
       </list>
     </option>
   </component>

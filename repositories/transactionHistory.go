@@ -19,8 +19,8 @@ func GetTransactionHistoryById(id uint) (error, models.TransactionHistory) {
 
 func CreateTransactionHistory(transferId uint, newTransactionHistory *models.TransactionHistory) error {
 	var transfer models.Transfer
-	database.DB.Model(&models.Beneficiary{}).Where("id = ?", transferId).First(&transfer)
+	database.DB.Model(&models.Transfer{}).Where("id = ?", transferId).First(&transfer)
 
-	err := database.DB.Model(&models.Beneficiary{}).Association("Transfers").Append(newTransactionHistory)
+	err := database.DB.Model(&transfer).Association("TransactionHistories").Append(newTransactionHistory)
 	return err
 }
